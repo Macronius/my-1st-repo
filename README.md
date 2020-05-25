@@ -1,28 +1,23 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Marcus Richardson
 
-- This is
-- an unordered
-- list
+## Once a student, then a recent graduate working in the professional world doing exactly what I had learned in school
+## then took a detour because I was curious about what kinds of jobs were out there for people who have engineering degrees, but not related to field of study
+## then decided to go back to studies to refine my skills and gain some new ones
 
-1. This is
-2. an ordered 
-3. list 
+# From University of Texas at Austin
+## B.S. Geosystems Engineering and Hydrogeology
+## EIT
 
-Here is `some code` in the middle of a sentence.
+**Currently working on:**
+- Python
+- PySpark
+- Unix (Bash) and Windows PowerShell
+- SQL
+- MODFLOW
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+**Purpose**
+Not sure yet, but I would like to enjoy what I do.  That's why I am gaining and improving my skills.  Also, because girls like guys with skills.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+**Looking for**
+I will be looking for opportunity to get started and use my new coding skills, and to grow/develop into a professional
