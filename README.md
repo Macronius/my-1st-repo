@@ -6,7 +6,7 @@
 
 # From University of Texas at Austin
 ## B.S. Geosystems Engineering and Hydrogeology
-## EIT
+## Texas EIT 69641
 
 **Currently working on:**
 - Python
